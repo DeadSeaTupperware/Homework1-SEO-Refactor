@@ -17,7 +17,7 @@ make it more omprehensible and efficient, as well as to optimize the source code
 
 ## Screenshot
 
-![Screenshot](assets/images/01-html-css-git-homework-demo.png)
+![Screenshot](assets/images/Screenshot.png)
 '''
 
 ## Deployed Application
