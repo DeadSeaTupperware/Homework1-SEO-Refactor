@@ -2,15 +2,18 @@
 
 ## Description
 
-The goal of this project was to create an employee payroll tracker for a payroll manager, capable of entering and accessing employee payroll data for budgeting purposes.
+The goal of this project was to edit the codebase for the Horiseon home webpage to bring its accessibility up to standard, 
+make it more omprehensible and efficient, as well as to optimize the source code for search engines.
 
 ## Completed Tasks
 
-- [x] Created a series of prompts for user to input employee names/salaries as objects into an array
-  - [x] Additional functionality added to prompt user to enter more than one employee
-- [x] Displayed employee data on page, sorted alphabetically by last name
-- [x] Added function to calculate and console log the average salary of all tracked employees
-- [x] Added function to randomly select and display a random employee in the console log as a "random drawing"
+- [x] Edited title element to be more descriptive
+- [x] Replaced ambiguous code with semantic HTML elements
+- [x] Added alt attributes to images and icons for accessibility
+- [x] Brought heading attributes into sequential order in HTML and CSS code
+- [x] Consolidated and reorginized CSS to match new semantic structure
+  - [x]   Element and class styling separated, sequenced by order of appearance in HTML
+- [x] Added comments in HTML/CSS to denote individual sections of code
 
 ## Screenshot
 
